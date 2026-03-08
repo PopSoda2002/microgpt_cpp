@@ -1,4 +1,4 @@
-# 编译产物
+# Build output
 gpt
 *.o
 *.out
